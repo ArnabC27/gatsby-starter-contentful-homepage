@@ -19,7 +19,7 @@
     "react-helmet": "^6.1.0",
     "@fontsource/dm-mono": "^4.5.4",
     "@fontsource/dm-sans": "^4.5.3",
-    "@vanilla-extract/babel-plugin": "^1.1.4",
+    "@vanilla-extract/babel-plugin": "^1.2.0",
     "@vanilla-extract/css": "^1.6.8",
     "@vanilla-extract/css-utils": "^0.1.2",
     "@vanilla-extract/webpack-plugin": "^2.1.5",
